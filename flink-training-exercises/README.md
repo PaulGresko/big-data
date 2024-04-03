@@ -44,8 +44,8 @@ public class RideCleansingExercise extends ExerciseBase {
 }
 
 ```
-### Тесты ###
 
+![RideCleansingTest](https://github.com/PaulGresko/big-data/blob/main/images/RideCleansingTest.png)
 
 ## Задание 2. RidesAndFaresExercise ##
 ### Решение ###
@@ -116,7 +116,7 @@ public class RidesAndFaresExercise extends ExerciseBase {
 	}
 }
 ```
-### Тесты ###
+![RidesAndFaresTest](https://github.com/PaulGresko/big-data/blob/main/images/RidesAndFaresTest.png)
 
 
 ## Задание 3. HourlyTipsExerxise ##
@@ -174,7 +174,7 @@ public class HourlyTipsExercise extends ExerciseBase {
 	}
 }
 ```
-### Тесты ###
+![HourlyTipsTest](https://github.com/PaulGresko/big-data/blob/main/images/HourlyTipsTest.png)
 
 ## Задание 4. ExpiringStateExercise ##
 ### Решение ###
@@ -266,4 +266,4 @@ public class ExpiringStateExercise extends ExerciseBase {
 	}
 }
 ```
-### Тесты ###
+![ExpiringStateTest](https://github.com/PaulGresko/big-data/blob/main/images/ExpiringStateTest.png)
